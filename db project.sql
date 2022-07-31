@@ -257,7 +257,7 @@ insert into employee values (103, 'Yujeong Han', 2960000, 'jeong01@naver.com', '
 insert into employee values (104, 'Dahun Jung' ,3120000, 'jungda@gmail.com', '01099201245');
 insert into employee values (105, 'Yuna Kim' ,2305000, 'imyunakim@naver.com', '01025761105');
 insert into employee values (106, 'Ajeong Kim', 2833000, 'rladkwjd@gmail.com', '01059926475');
-insert into employee values (107, 'Jaemin Sin', 1920000, 'sinjamjam@naver.com', бо01045219492');
+insert into employee values (107, 'Jaemin Sin', 1920000, 'sinjamjam@naver.com', '01045219492');
 insert into employee values (108, 'Jongmin Han', 2400000, 'hahahjm1004@naver.com', '01003921135');
 insert into employee values (109, 'Taeyeon Park', 2870000, 'urfine7@daum.net', '01049305235');
 insert into employee values (110, 'Seojun Lee', 1880000, 'lsjisme@naver.com', '01066602350');
